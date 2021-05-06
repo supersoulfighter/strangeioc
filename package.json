@@ -1,0 +1,15 @@
+{
+    "name": "io.github.strangeioc",
+    "displayName": "StrangeIoC",
+    "description": "StrangeIoC as a Unity package",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "author": {
+        "name": "Jeff Ettenhofer",
+        "url": "https://groups.google.com/g/strangeioc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/supersoulfighter/strangeioc.git"
+    }
+}
